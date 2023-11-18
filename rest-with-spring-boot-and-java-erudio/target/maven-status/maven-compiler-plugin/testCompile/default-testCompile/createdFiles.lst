@@ -1,0 +1,13 @@
+br\com\erudio\integrationtests\controller\withjson\PersonControllerCorsJsonTest.class
+br\com\erudio\unittests\mapper\mocks\MockPerson.class
+br\com\erudio\integrationtests\vo\PersonVO.class
+br\com\erudio\integrationtests\vo\TokenVO.class
+br\com\erudio\unittests\mockito\services\PersonServicesTest.class
+br\com\erudio\integrationtests\testcontainers\AbstractIntegrationTest.class
+br\com\erudio\unittests\mapper\mocks\MockBook.class
+br\com\erudio\unittests\mockito\services\BookServicesTest.class
+br\com\erudio\integrationtests\vo\AccountCredentialsVO.class
+br\com\erudio\unittests\mapper\DozerConverterTest.class
+br\com\erudio\integrationtests\testcontainers\AbstractIntegrationTest$Initializer.class
+br\com\erudio\integrationtests\swagger\SwaggerIntegrationTest.class
+br\com\erudio\configs\TestConfigs.class
